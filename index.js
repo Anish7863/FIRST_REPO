@@ -17,3 +17,15 @@ rs.on('data',(data)=>{
     console.log(data)
     console.log(data)
 })
+
+rs.error('data',(data)=>{
+    console.log(data)
+    console.log(data)
+    console.log(data)
+    console.log(data)
+    console.log(data)
+    console.log(data)
+     console.log(data)
+    console.log(data)
+    console.log(data)
+})
